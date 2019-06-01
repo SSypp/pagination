@@ -1,6 +1,8 @@
 # pagination
 
-> A Vue.js project
+> 基于vue+axios制作的分页器组件，包括了数据分页，首页，尾页，上一页，下一页的跳转
+## 效果图：
+!()[1.gif]
 
 ## Build Setup
 
